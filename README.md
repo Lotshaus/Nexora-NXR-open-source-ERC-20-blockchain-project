@@ -111,65 +111,117 @@ Nexora is currently deployed exclusively on the **Ethereum Sepolia testnet**.
 
 # 🗺 Roadmap
 
-### 🟣 01 · Foundation
+<div align="center">
 
-**COMPLETE**
+### FROM TESTNET TOKEN → OPEN-SOURCE WEB3 PROJECT
 
-* [x] Nexora identity
-* [x] NXR token
-* [x] ERC-20 contract
-* [x] Sepolia deployment
+</div>
+
+<p align="center">
+
+🟣 <b>01 FOUNDATION</b>
+ ━━━→━━━ 
+🟣 <b>02 WEB3</b>
+ ━━━→━━━ 
+🟣 <b>03 DEVELOPER</b>
+ ━━━→━━━ 
+⚪ <b>04 ECOSYSTEM</b>
+ ━━━→━━━ 
+⚪ <b>05 FUTURE</b>
+
+</p>
+
+---
+
+## 🟣 01 · FOUNDATION
+
+**COMPLETED**
+
+* [x] Nexora branding
+* [x] NXR ERC-20 token
+* [x] Fixed initial supply
+* [x] Ethereum Sepolia deployment
 * [x] Contract verification
 * [x] GitHub repository
+* [x] MIT License
+* [x] Security Policy
+* [x] Contributing Guidelines
+* [x] Project README
+* [x] Nexora website
 * [x] Initial tokenomics
-* [x] Nexora branding
 
-### 🟣 02 · Web3
+---
 
-**IN PROGRESS**
+## 🟣 02 · WEB3
+
+**CURRENT**
 
 * [x] Landing page
-* [x] Tokenomics section
-* [x] Contract section
+* [x] Contract information
+* [x] Tokenomics interface
 * [x] FAQ
+* [x] Contract address copy
 * [x] GitHub integration
-* [x] Contract copy button
-* [ ] Wallet connection
+* [ ] Connect Wallet
 * [ ] MetaMask integration
-* [ ] Live wallet balance
-* [ ] Network detection
+* [ ] Sepolia network detection
+* [ ] Live NXR balance
+* [ ] Wallet address display
 * [ ] Live contract data
+* [ ] Transaction links
 
-### ⚪ 03 · Ecosystem
+---
+
+## 🟣 03 · DEVELOPER
 
 **PLANNED**
 
-* [ ] Web3 dashboard
+* [ ] Smart-contract test suite
+* [ ] Local development environment
+* [ ] Automated contract testing
+* [ ] GitHub Actions CI
+* [ ] Deployment documentation
+* [ ] Contract interaction examples
+* [ ] Developer documentation
+* [ ] API / Web3 integration guide
+* [ ] Versioned contract releases
+
+---
+
+## ⚪ 04 · ECOSYSTEM
+
+**PLANNED**
+
+* [ ] Nexora Web3 dashboard
 * [ ] NXR holder interface
 * [ ] Transaction history
-* [ ] Sepolia analytics
+* [ ] Sepolia token analytics
+* [ ] Token holder statistics
 * [ ] Developer tools
 * [ ] Community documentation
+* [ ] Experimental DApp integrations
 
-### ⚪ 04 · Advanced
+---
 
-**FUTURE**
+## ⚪ 05 · FUTURE
+
+**RESEARCH**
 
 * [ ] Governance experiments
-* [ ] DApp experiments
-* [ ] Layer-2 research
-* [ ] Cross-chain experiments
 * [ ] Advanced smart-contract modules
-
-### ⚪ 05 · Research
-
-**FUTURE**
-
-* [ ] Security research
-* [ ] Extensive testnet testing
-* [ ] Independent review
+* [ ] Layer-2 research
+* [ ] Token utility experiments
+* [ ] Independent security review
 * [ ] Mainnet feasibility research
 * [ ] Legal and compliance research
+
+---
+
+<div align="center">
+
+**Build → Test → Document → Experiment**
+
+</div>
 
 ---
 
