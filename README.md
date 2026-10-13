@@ -162,8 +162,8 @@ Nexora is currently deployed exclusively on the **Ethereum Sepolia testnet**.
 * [x] FAQ
 * [x] Contract address copy
 * [x] GitHub integration
-* [ ] Connect Wallet
-* [ ] MetaMask integration
+* [x] Connect Wallet
+* [x] MetaMask integration   
 * [ ] Sepolia network detection
 * [ ] Live NXR balance
 * [ ] Wallet address display
